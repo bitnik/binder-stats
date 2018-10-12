@@ -1,8 +1,6 @@
 # binder-stats
-Querying statistics about the public notebooks.gesis.org deployment.
+Querying statistics about the public https://notebooks.gesis.org/binder/ deployment.
 
-This uses the public prometheus data collection service running on notebooks.gesis.org
+This uses [the public prometheus data collection service running on GESIS Notebooks](https://notebooks.gesis.org/prometheus/)
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/gesiscss/binder-stats/master?filepath=prometheus_demo.ipynb)
-
-
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/binder-stats/master)
